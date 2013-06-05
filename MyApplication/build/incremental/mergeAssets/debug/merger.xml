@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/alexey/Downloads/MyApplicationProject/MyApplication/src/main/assets" >
+            <file
+                name="example.torrent"
+                path="/home/alexey/Downloads/MyApplicationProject/MyApplication/src/main/assets/example.torrent" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/alexey/Downloads/MyApplicationProject/MyApplication/src/debug/assets" />
+    </dataSet>
+
+</merger>
